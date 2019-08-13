@@ -1,6 +1,6 @@
 # Vue-ElementUI-Admin
 ## 基于vue3.0 + Element UI实现后台管理模板
-使用vue最新脚手架和Element UI搭建的一个关于后台管理的模板界面，有时间就会更新新的内容，实现一些常用的功能。
+使用vue最新脚手架和Element UI搭建的一个关于后台管理的模板界面，有时间就会更新新的内容，实现一些常用的功能。[在线预览](http://sddman.cn/webDemo/Vue-ElementUI-Admin)
 ## Project setup
 ```
 npm install
